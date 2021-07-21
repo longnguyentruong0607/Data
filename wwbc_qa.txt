@@ -15,8 +15,3 @@ Hàm nào sau đây là hàm tích hợp sẵn trong Python?[seed(),sqrt(),facto
 Hàm pow(x,y,z) được diễn giải là:?[(x**y)%z,(x**y)**z,(x**y)/z,(x**y)*z,(x**y)%z
 Đâu không phải là kiểu dữ liệu tiêu chuẩn trong Python??[List,Dictionary,Class,Tuple,Class
 Ý nghĩa của hàm __init__() trong Python là gì??[Khởi tạo một lớp để sử dụng,Được gọi khi một đối tượng mới được khởi tạo,Khởi tạo và đưa tất cả các thuộc tính dữ liệu về 0 khi được gọi,Không có đáp án đúng,Được gọi khi một đối tượng mới được khởi tạo
-?[
-?[
-?[
-?[
-?[
