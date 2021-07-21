@@ -1,4 +1,3 @@
 Which disease devastated livestock across the UK during 2001?[Handandfoot,Footinmouth,Handtomouth,Footandmouth,Footandmouth
 Which of these kills its victims by constriction?[Andalucia,Anaconda,Andypandy,Annerobinson,Anaconda
-
-What is Python?[Snake,Program,Computer,
+What is Python?[Snake,Program Language,Computer,God,Program Language
