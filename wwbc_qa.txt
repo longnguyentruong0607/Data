@@ -1,3 +1,22 @@
-Which disease devastated livestock across the UK during 2001?[Handandfoot,Footinmouth,Handtomouth,Footandmouth,Footandmouth
-Which of these kills its victims by constriction?[Andalucia,Anaconda,Andypandy,Annerobinson,Anaconda
-What is Python?[Snake,Program Language,Computer,God,Program Language
+Python là gì?[Program Language,Snake,Phần mềm,Trò chơi,Program Language
+Đông Lào là quốc gia nào?[Lào,Campuchia,Việt Nam,Đông Timo,Việt Nam
+Cho i = 1, kết quả của print(i+'1') là?[1,2,0,Lỗi,Lỗi
+Câu lệnh đúng để in ra "Hê lô World" trong Python là gì?[in"Hê lô World",Print("Hê lô World"),Print("Hê lô World"),print(Hello World),Print("Hê lô World")
+Cú pháp nào đúng?[-*,-=,-+,-%,-=
+Bánh mì là gì?[Thực phẩm,Tiền ảo,Đồ chơi,Chân lý,Thực phẩm
+Đội nào vô địch Euro 2020?[Italy,Anh,Đông Lào,Tây Ba Nha,Italy
+SEA game 31 dự tính được tổ chức ở đâu?[Singapore,Việt Nam,Trung Quốc,Mỹ,Việt Nam
+Câu lệnh sử dụng toán tử and trả về kết quả TRUE khi nào?[Cả hai toán hạng đều là TRUE,Cả hai toán hàng đều là FALSE,Một trong hai toán hạng là TRUE,Toán hạng đầu tiên là TRUE,Toán hạng đầu tiên là TRUE
+Output của lệnh print(3>=3) là:?[3 >= 3,True,False,None,None
+Lệnh nào dùng để lấy dữ liệu đầu vào từ người dùng??[cin,scanf(),input(),<>,input()
+n = '5' n là kiểu dữ liệu nào?[integer,string,tuple,operator,operator
+round(4.576) ra kết quả là gì?[4.5,5,4,4.6,5
+Hàm nào sau đây là hàm tích hợp sẵn trong Python?[seed(),sqrt(),factorial(),print(),print()
+Hàm pow(x,y,z) được diễn giải là:?[(x**y)%z,(x**y)**z,(x**y)/z,(x**y)*z,(x**y)%z
+Đâu không phải là kiểu dữ liệu tiêu chuẩn trong Python??[List,Dictionary,Class,Tuple,Class
+Ý nghĩa của hàm __init__() trong Python là gì??[Khởi tạo một lớp để sử dụng,Được gọi khi một đối tượng mới được khởi tạo,Khởi tạo và đưa tất cả các thuộc tính dữ liệu về 0 khi được gọi,Không có đáp án đúng,Được gọi khi một đối tượng mới được khởi tạo
+?[
+?[
+?[
+?[
+?[
